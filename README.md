@@ -1,7 +1,8 @@
 # Mathematics Graduate
 ## Education
-- BSc, Mathematics | University of Edinburgh (_2021 – present_)
-- Secondary Education | Wren Academy	(_2014 – 2021_) 
+
+### BSc, Mathematics | University of Edinburgh (_2021 – present_)
+### Secondary Education | Wren Academy	(_2014 – 2021_) 
 
 **A-Levels**: Mathematics A*, Further Mathematics A*, Chemistry A*, Physics A
 
@@ -15,6 +16,7 @@ Designed and executed simulation studies for statistical models to evaluate the 
 A focus on problems originating in industry to build relevant applicable solutions and make evidence-informed decisions in a wide range of industries, from manufacturing to policy-making. Used analytical and problem-solving skills built upon a foundation of pure and applied mathematical modelling, statistics, and computing to create optimised agent based models and simulations for the development of efficeient industrial process and strategies.
 
 ## Work Experience
+
 ### Mathematics Tutor | Tutor Impact UK (_02/2023 - present_)
 
 Tutor of Mathematics for iGCSEs and IBs to increase students’ academic performance and life skills. Providing a specialised approach to UKMT Olympiads, MAT and STEP with exemplary communication skills and ease in working with Microsoft Office. 
