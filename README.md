@@ -22,6 +22,8 @@ Designed and executed simulation studies for statistical models to evaluate the 
 *University of Edinburgh (December 2024)*  
 Focused on problems originating in industry to build relevant applicable solutions and make evidence-informed decisions in a wide range of industries, from healthcare to transport systems. Used analytical and problem-solving skills built upon a foundation of pure and applied mathematical modelling, statistics, and computing to create optimised agent based models and simulations for the development of efficeient industrial process and strategies. 
 
+[Traffic Simulation Project](https://github.com/nishideps/Traffic-Simulation)
+
 ---
 
 ## Work Experience  
