@@ -2,7 +2,7 @@
 
 ## Education
 **Bachelors of Science with Honours in Mathematics**  
-First class award, *University of Edinburgh*  
+First class award, *University of Edinburgh (2021 - 2025)*  
 
 **A-Levels**  
 *Wren Academy (2019 – 2021)*  
