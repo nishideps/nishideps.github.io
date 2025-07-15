@@ -1,8 +1,8 @@
 # Mathematics Graduate
 
 ## Education
-**BSc, Mathematics**  
-*University of Edinburgh (Expected May 2025)*  
+**Bachelors of Science with Honours in Mathematics**  
+First class award, *University of Edinburgh*  
 
 **A-Levels**  
 *Wren Academy (2019 – 2021)*  
