@@ -2,3 +2,10 @@ title: Nisha Depala
 logo: /headshot_circle.png
 # show_downloads: true
 theme: jekyll-theme-minimal
+
+plugins:
+  - jekyll-include-cache
+
+# Add this line:
+include:
+  - assets/css/style.css
