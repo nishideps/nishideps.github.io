@@ -28,6 +28,8 @@ Focused on problems originating in industry to build relevant applicable solutio
 
 [Virus Diffusion Project](https://github.com/nishideps/Virus-Diffusion)
 
+<img src="LaneChangeAnimation.gif" alt="Traffic Simulation Demo" width="400"/>
+
 ### Statistical Case Studies  
 *University of Edinburgh (September 2024 - present)*  
 Work on consultancy style projects in teams. Each project takes the form of a data analysis problem which includes complex real-world data and detailed background and problem statement. Using R and LaTeX to produce a written report covering relevant background, details and implementation of methods used, results obtained and corresponding interpretation of the results. The first project included an investigation into the true authorship of *Frankenstein, Mary Shelley* using stylometric methods. The second project made use of the skills picked up from the first author attribution task to build our own AI Detector and check its validity and reliability.
