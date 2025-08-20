@@ -1,0 +1,37 @@
+body {
+  background-color: #121212; /* deep black/gray */
+  color: #e0e0e0; /* light gray text */
+  font-family: system-ui, sans-serif;
+}
+
+/* Links */
+a {
+  color: #80cbc4; /* teal */
+}
+a:hover {
+  color: #26a69a;
+}
+
+/* Page title */
+h1, h2, h3, h4, h5, h6 {
+  color: #ffffff;
+}
+
+/* Header area */
+header {
+  border-bottom: 1px solid #333;
+  padding-bottom: 0.5rem;
+}
+
+/* Footer or small text */
+small, footer {
+  color: #999;
+}
+
+/* Code blocks */
+pre, code {
+  background-color: #1e1e1e;
+  color: #dcdcdc;
+  padding: 0.25rem 0.5rem;
+  border-radius: 4px;
+}
