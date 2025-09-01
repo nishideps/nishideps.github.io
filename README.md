@@ -6,9 +6,14 @@ I'm a recent Mathematics graduate actively seeking opportunities in tech or fina
 
 - I've worked on projects using RStudio and Python, primarily in Jupyter Notebook and VSCode.
 - Currently, I'm learning how to use SQL and Python for sorting, cleaning, and visualising data.
-- Why does data matter to me? Data is a powerful tool that can be shaped to tell a story. Too often, we see graphs and statistics used out of context, cleverly crafted to mislead or spread misinformation in news and media. Now more than ever, I believe it's important to understand how data and statistics can be used responsibly to drive informed, ethical decision-making.
+
+**_Why does data matter to me?_**
+
+Data is a powerful tool that can be shaped to tell a story. Too often, we see graphs and statistics used out of context, cleverly crafted to mislead or spread misinformation in news and media. Now more than ever, I believe it's important to understand how data and statistics can be used responsibly to drive informed, ethical decision-making.
 
 Feel free to explore some of the projects I have worked on below. Thanks for stopping by!
+
+---
 
 ## Education
 **Bachelors of Science with Honours in Mathematics**  
@@ -45,7 +50,7 @@ Work on consultancy style projects in teams. Each project takes the form of a da
 ## Certifications
 [Master Excel for Data Science, *Linkedin Learning*](https://www.linkedin.com/learning/certificates/4210feaa18302589af70cb6750bf57ad604ed35c015241bf10dd6db3d0c05548?u=50251009)
 
-SQL Essential Training, *Linkedin Learning*
+[SQL Essential Training, *Linkedin Learning*](https://www.linkedin.com/learning/certificates/d66ca5f033f01f9520c1fb8f231e2be718db3074829cb6dac6c4d3af0b5ce405?u=50251009)
 
 ---
 
